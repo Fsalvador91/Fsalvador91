@@ -5,4 +5,3 @@
 - 📫 How to reach me: f.salvador91@gmail.com
 - 👨🏽‍💻 Developer since 2010
 
-
