@@ -5,9 +5,3 @@
 - 📫 How to reach me: f.salvador91@gmail.com  
 - 👨🏽‍💻 Developer since 2010
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,rabbitmq,mongodb,dotnet,bitbucket,openshift,jenkins,azure,aws" />
-  </a>
-</p>
-
